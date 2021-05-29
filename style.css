@@ -1,0 +1,14 @@
+.Ground_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15 px;
+}
+
+Ground_head i {
+    float: right;
+}
+
+.Ground_text span {
+    color: #ff7700;
+}
